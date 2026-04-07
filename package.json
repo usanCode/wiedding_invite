@@ -1,0 +1,27 @@
+{
+  "name": "wiedding_invite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/usanCode/wiedding_invite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/usanCode/wiedding_invite/issues"
+  },
+  "homepage": "https://github.com/usanCode/wiedding_invite#readme",
+  "devDependencies": {
+    "tailwindcss": "^4.2.2"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.2.2"
+  }
+}
