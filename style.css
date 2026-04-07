@@ -1,0 +1,13 @@
+
+
+
+@import "tailwindcss";
+
+@layer base {
+  @import url('https://googleapis.com');
+}
+
+/* Custom utility for the script font */
+.font-cursive {
+  font-family: 'Great Vibes', cursive;
+}
