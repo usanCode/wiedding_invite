@@ -15,16 +15,19 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/usanCode/wiedding_invite/issues"
   },
   "homepage": "https://github.com/usanCode/wiedding_invite#readme",
   "devDependencies": {
+    "@vitejs/plugin-react": "^6.0.1",
     "tailwindcss": "^4.2.2"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.2.2",
-    "framer-motion": "^12.38.0"
+    "framer-motion": "^12.38.0",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4"
   }
 }
