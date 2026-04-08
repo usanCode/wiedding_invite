@@ -6,10 +6,10 @@ function Gallery() {
       <h2 className="text-xl mb-6">Gallery</h2>
 
       <div className="grid grid-cols-2 gap-4 px-6">
-        <img src="/img1.jpg" className="rounded" />
-        <img src="/img2.jpg" className="rounded" />
-        <img src="/img3.jpg" className="rounded" />
-        <img src="/img4.jpg" className="rounded" />
+        <img src="/gallery1.PNG" className="rounded" />
+        <img src="/gallery2.PNG" className="rounded" />
+        <img src="/gallery3.PNG" className="rounded" />
+        <img src="/gallery4.PNG" className="rounded" />
       </div>
     </div>
   );

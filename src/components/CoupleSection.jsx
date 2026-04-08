@@ -13,7 +13,7 @@ function CoupleSection() {
       </p>
 
       <img
-        src="/couple.jpg"
+        src="/couple.PNG"
         alt="couple"
         className="mx-auto mt-6 rounded-lg w-64"
       />

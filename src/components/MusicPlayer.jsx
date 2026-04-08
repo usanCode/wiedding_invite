@@ -4,7 +4,7 @@
 function MusicPlayer() {
   return (
     <audio autoPlay loop>
-      <source src="/music.mp3" type="audio/mpeg" />
+      <source src="/weddingMusic.mp3" type="audio/mpeg" />
     </audio>
   );
 }
