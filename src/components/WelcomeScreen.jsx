@@ -16,7 +16,7 @@ function WelcomeScreen({ onOpen }) {
 
       <motion.button
         onClick={onOpen}
-        className="px-6 py-3 bg-blue-500 text-white rounded-full"
+        className="bg-red-500 text-white p-10"
         whileHover={{ scale: 1.1 }}
       >
         Open Invitation
